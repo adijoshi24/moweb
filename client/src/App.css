@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.nav {
+  background-color: rgb(34, 31, 31);
+  color: white;
+  font-weight: bold;
+}
+a:link,
+a:visited {
+  background-color: rgb(34, 31, 31);
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover,
+a:active {
+  background-color: rgb(226, 218, 218);
+  color: black;
+  font-weight: bold;
+}
+.container {
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 50px;
+  padding: 5px;
+}
+.addButton {
+  margin-bottom: 30px;
+  background-color: white;
+  border: 2px solid rgb(35, 35, 85);
+  color: rgb(35, 35, 85);
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.addButton:hover {
+  margin-bottom: 30px;
+  background-color: rgb(35, 35, 85);
+  border: 2px solid rgb(35, 35, 85);
+  color: white;
+  padding: 10px;
+}
