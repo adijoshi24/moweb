@@ -45,3 +45,7 @@ a:active {
   color: white;
   padding: 10px;
 }
+
+.actions-btn {
+  display: none !important;
+}
